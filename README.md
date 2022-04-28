@@ -4,5 +4,6 @@ Instalação e configuração do VirtualBox junto com Ubuntu Server - Acesso rem
 Agrupar em um único local:
 * instalção;
 * configuração;
-* correções de erros.
-*  
+* e correções de erros.
+
+Juntamente com a referência de material escrito e em vídeos.
