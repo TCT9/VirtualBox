@@ -22,35 +22,11 @@ Juntamente com a referência de material escrito e em vídeos.
 8. SSH - Acesso remoto de usuário não root;
 9. Instalar MySql no modo Headless;
 10. SSH - Conectar MySql remoto;
-11. Aplicativo Java Desktop fazendo CRUD em MySql remoto, via SSH;
-b
-b
-b
-b
-b
-b
-b
-b
-b
-b
-b
-b
-b
-b
-b
-b
-b
-b
-b
+11. ;
+
+
 <a id="cap1"></a>
 ## 1. Instalar e configurar o Ubuntu Server 22.04 LTS no Virtualbox
-a
-a
-a
-a
-a
-a
-a
-a
+
 
 
