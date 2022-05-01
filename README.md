@@ -1,4 +1,4 @@
-# VirtualBox, Ubuntu Server, SSH, MySql, Java e Node.js
+# VirtualBox, Ubuntu Server, SSH, MySql e Node.js
 Instalação e configuração do VirtualBox junto com Ubuntu Server - Acesso remoto com SSH - MySql, Java e Node.js
 
 Tenho o objetivo de agrupar em um único local:
