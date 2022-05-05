@@ -28,5 +28,5 @@ Juntamente com a referência de material escrito e em vídeos.
 <a id="cap1"></a>
 ## 1. Instalar e configurar o Ubuntu Server 22.04 LTS no Virtualbox
 
-
+[Instalação do VirtualBox no Windows : Curso Linux Básico : Módulo 02 : Aula#03] https://www.youtube.com/watch?v=r66V3hrHyO8&t=18s
 
