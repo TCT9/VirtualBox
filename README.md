@@ -69,5 +69,7 @@ Vamos verificar no WIndows 10 se a virtualização está ativada. Para isso faç
   
   Em caso de falha desmarque estas opções e reinicie o computador. Depois marque as opções novamente e por fim reinicie o computador.
 
-[Instalação do VirtualBox no Windows : Curso Linux Básico : Módulo 02 : Aula#03] https://www.youtube.com/watch?v=r66V3hrHyO8&t=18s
+  Vídeos de instalação do VirtualBox:
+  1. Básico => [Instalação do VirtualBox no Windows : Curso Linux Básico : Módulo 02 : Aula#03] https://www.youtube.com/watch?v=r66V3hrHyO8&t=18s
+  2. Completo + IP estático => [Install Ubuntu Server 21.04 on VirtualBox 6.1 - Static IP Addresses and SSH Server] https://www.youtube.com/watch?v=zx3bICfe5PY
 
