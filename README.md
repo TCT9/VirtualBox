@@ -36,6 +36,7 @@ Fonte(s):
 <a id = "link_video1">
 [WSL 2 - A solução para rodar Linux dentro do Windows 10 - Root #08] https://www.youtube.com/watch?v=hd6lxt5iVsg&t=580s
 Observação: veja na descrição do vídeo acima os links para instalação do Windows Terminal, VS Code, Ubuntu para Windows etc...
+  
 
 <a id="cap2"></a>
 ## 2. Instalar e configurar o Ubuntu Server 22.04 LTS no Virtualbox
@@ -68,6 +69,5 @@ Vamos verificar no WIndows 10 se a virtualização está ativada. Para isso faç
   
   Em caso de falha desmarque estas opções e reinicie o computador. Depois marque as opções novamente e por fim reinicie o computador.
 
-[Como Ativar o Recurso de Virtualização no BIOS do PC Processadores Intel e AMD] https://www.youtube.com/watch?v=yDGdAXGItH0
 [Instalação do VirtualBox no Windows : Curso Linux Básico : Módulo 02 : Aula#03] https://www.youtube.com/watch?v=r66V3hrHyO8&t=18s
 
