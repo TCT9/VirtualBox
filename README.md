@@ -40,6 +40,7 @@ Observação: veja na descrição do vídeo acima os links para instalação do 
 <a id="cap2"></a>
 ## 2. Instalar e configurar o Ubuntu Server 22.04 LTS no Virtualbox
 
+Será necessário baixar a imagem <code>iso</code>
 
 [Como Ativar o Recurso de Virtualização no BIOS do PC Processadores Intel e AMD] https://www.youtube.com/watch?v=yDGdAXGItH0
 [Instalação do VirtualBox no Windows : Curso Linux Básico : Módulo 02 : Aula#03] https://www.youtube.com/watch?v=r66V3hrHyO8&t=18s
