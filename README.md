@@ -48,8 +48,9 @@ Acesse https://ubuntu.com/download/server e selecione o link <code>Option 2: Man
 Reserve a imagem do Ubuntu para uso posterior.
 
 Vamos verificar no WIndows 10 se a virtualização está ativada. Para isso faça:
-  1.1.
-  1.2.
+  
+1.1.
+1.2.
   
 
 
