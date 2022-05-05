@@ -51,7 +51,7 @@ Vamos verificar no WIndows 10 se a virtualização está ativada. Para isso faç
   
   <code>Ctrl+Alt+Del</code> --> Gerenciador de Tarefas --> guia Desempenho --> selecione CPU
   
-  Verifique se a virtualização está habilitada. Se não estiver, você terá que ativar esse recurso no [Bios](https://www.youtube.com/watch?v=yDGdAXGItH0) do seu computador:
+  Verifique se a virtualização está habilitada. Se não estiver, você terá que ativar esse recurso no [Bios](acesse o link para detalhes)(https://www.youtube.com/watch?v=yDGdAXGItH0) do seu computador:
   
   ![image](https://user-images.githubusercontent.com/39566289/166926260-0f19631f-8cb5-4be2-9b30-73e55501bf5b.png) 
   
@@ -64,7 +64,9 @@ Vamos verificar no WIndows 10 se a virtualização está ativada. Para isso faç
   
   ![image](https://user-images.githubusercontent.com/39566289/166928302-0cd11c34-136f-4563-a85a-f5195e6eba56.png)
 
-  Aguarde a instalação e reinicie o computador. Em caso de falha
+  Aguarde a instalação e reinicie o computador. 
+  
+  Em caso de falha desmarque estas opções e reinicie o computador. Depois marque as opções novamente e por fim reinicie o computador.
 
 [Como Ativar o Recurso de Virtualização no BIOS do PC Processadores Intel e AMD] https://www.youtube.com/watch?v=yDGdAXGItH0
 [Instalação do VirtualBox no Windows : Curso Linux Básico : Módulo 02 : Aula#03] https://www.youtube.com/watch?v=r66V3hrHyO8&t=18s
