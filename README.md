@@ -54,8 +54,9 @@ Vamos verificar no WIndows 10 se a virtualização está ativada. Para isso faç
   Verifique se a virtualização está habilitada:
   
   ![image](https://user-images.githubusercontent.com/39566289/166926260-0f19631f-8cb5-4be2-9b30-73e55501bf5b.png) 
+  
 
-  Em "Digite aqui para pesuisar" escreva "Ativar", conforme figura abaixo, e selecione "Ativar
+  Em "Digite aqui para pesquisar" escreva "Ativar", conforme figura abaixo, e selecione "Ativar"
   
   ![image](https://user-images.githubusercontent.com/39566289/166927703-d37ad7b5-38a8-4516-9cef-fee4c706e053.png)
 
