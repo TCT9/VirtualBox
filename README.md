@@ -34,7 +34,7 @@ Outra obrigação é a instalação do Windows Terminal e VS Code.
 
 Fonte(s):
 <a id = "link_video1">
-[WSL 2 - A solução para rodar Linux dentro do Windows 10 - Root #08] https://www.youtube.com/watch?v=hd6lxt5iVsg&t=580s
+[WSL 2 - A solução para rodar Linux dentro do Windows 10 - Root #08](#https://www.youtube.com/watch?v=hd6lxt5iVsg&t=580s)
 Observação: veja na descrição do vídeo acima os links para instalação do Windows Terminal, VS Code, Ubuntu para Windows etc...
   
 
@@ -48,7 +48,7 @@ Acesse https://ubuntu.com/download/server e selecione o link <code>Option 2: Man
   
 Reserve a imagem do Ubuntu para uso posterior.
 
-Vamos verificar no WIndows 10 se a virtualização está ativada. Para isso faça:
+Vamos verificar no Windows 10 se a virtualização está ativada. Para isso faça:
   
   <code>Ctrl+Alt+Del</code> --> Gerenciador de Tarefas --> guia Desempenho --> selecione CPU
   
@@ -70,6 +70,6 @@ Vamos verificar no WIndows 10 se a virtualização está ativada. Para isso faç
   Em caso de falha desmarque estas opções e reinicie o computador. Depois marque as opções novamente e por fim reinicie o computador.
 
   Vídeos de instalação do VirtualBox:
-  1. Básico => [Instalação do VirtualBox no Windows : Curso Linux Básico : Módulo 02 : Aula#03] https://www.youtube.com/watch?v=r66V3hrHyO8&t=18s
-  2. Completo + IP estático => [Install Ubuntu Server 21.04 on VirtualBox 6.1 - Static IP Addresses and SSH Server] https://www.youtube.com/watch?v=zx3bICfe5PY
+  1. Básico => [Instalação do VirtualBox no Windows : Curso Linux Básico : Módulo 02 : Aula#03](#https://www.youtube.com/watch?v=r66V3hrHyO8&t=18s)
+  2. Completo + IP estático => [Install Ubuntu Server 21.04 on VirtualBox 6.1 - Static IP Addresses and SSH Server](#https://www.youtube.com/watch?v=zx3bICfe5PY)
 
