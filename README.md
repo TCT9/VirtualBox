@@ -35,7 +35,8 @@ Outra obrigação é a instalação do Windows Terminal e VS Code.
 Fonte(s):
 <a id = "link_video1">
 [WSL 2 - A solução para rodar Linux dentro do Windows 10 - Root #08](https://www.youtube.com/watch?v=hd6lxt5iVsg&t=580s)
-Observação: veja na descrição do vídeo acima os links para instalação do Windows Terminal, VS Code, Ubuntu para Windows etc...
+
+  Observação: veja na descrição do vídeo acima os links para instalação do Windows Terminal, VS Code, Ubuntu para Windows etc...
   
 
 <a id="cap2"></a>
