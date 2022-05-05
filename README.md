@@ -28,7 +28,7 @@ Juntamente com a referência de material escrito e em vídeos.
 
 <a id="cap1"></a>
 ## 1. Instalar WSL 2
-O [vídeo](https://www.youtube.com/watch?v=hd6lxt5iVsg&t=580s) abaixo descre como instalar o WSL 2, que será fundamental para simulação de sistemas Linux remotamente.
+O [vídeo](https://www.youtube.com/watch?v=hd6lxt5iVsg&t=580s)(abra em nova guia) abaixo descre como instalar o WSL 2, que será fundamental para simulação de sistemas Linux remotamente.
 
 Outra obricação é a instalção do Windows Terminal e VS Code.
 
