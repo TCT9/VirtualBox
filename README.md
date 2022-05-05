@@ -25,6 +25,11 @@ Juntamente com a referência de material escrito e em vídeos.
 11. SSH - Conectar MySql remoto;
 12. ;
 
+Observação: 
+Para os vídeos em inglês ative a tradução automática:
+
+a. Clique em legenda: ![image](https://user-images.githubusercontent.com/39566289/166941665-583722ef-d126-4d8d-aa26-fa77d320f341.png)
+
 
 <a id="cap1"></a>
 ## 1. Instalar WSL 2
