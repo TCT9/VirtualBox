@@ -43,8 +43,15 @@ Observação: veja na descrição do vídeo acima os links para instalação do 
 Será necessário baixar a imagem <code>iso</code> do Ubuntu Server, sendo a versão mais atual a 20.04 LTS.
   
 Acesse https://ubuntu.com/download/server e selecione o link <code>Option 2: Manual server installation</code> e por fim click no link 
-  <code>Download Ubuntu Server 22.04 LTS</code> para baixar o arquivo <code> ubuntu-22.04-live-server-amd64.iso</code>
+  <code>Download Ubuntu Server 22.04 LTS</code> para baixar o arquivo <code> ubuntu-22.04-live-server-amd64.iso</code>.
   
+Reserve a imagem do Ubuntu para uso posterior.
+
+Vamos verificar no WIndows 10 se a virtualização está ativada. Para isso faça:
+  1.1.
+  1.2.
+  
+
 
 [Como Ativar o Recurso de Virtualização no BIOS do PC Processadores Intel e AMD] https://www.youtube.com/watch?v=yDGdAXGItH0
 [Instalação do VirtualBox no Windows : Curso Linux Básico : Módulo 02 : Aula#03] https://www.youtube.com/watch?v=r66V3hrHyO8&t=18s
