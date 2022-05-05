@@ -49,8 +49,7 @@ Reserve a imagem do Ubuntu para uso posterior.
 
 Vamos verificar no WIndows 10 se a virtualização está ativada. Para isso faça:
   
-1.1.
-1.2.
+  <code>Ctrl+Alt+Del</code> --> Gerenciador de Tarefas --> guia Desempenho --> selecione CPU
   
 
 
