@@ -28,7 +28,15 @@ Juntamente com a referência de material escrito e em vídeos.
 Observação: 
 Para os vídeos em inglês ative a tradução automática:
 
-a. Clique em legenda: ![image](https://user-images.githubusercontent.com/39566289/166941665-583722ef-d126-4d8d-aa26-fa77d320f341.png)
+a. Clique em legenda: 
+
+![image](https://user-images.githubusercontent.com/39566289/166954732-76284264-f72c-439c-aaf3-8c4a25c99008.png)
+
+b. Clique em detalhes: 
+
+![image](https://user-images.githubusercontent.com/39566289/167017221-f20a34fd-3991-47f1-8695-4d4bac2b0f88.png)
+
+
 
 
 <a id="cap1"></a>
