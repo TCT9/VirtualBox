@@ -45,7 +45,6 @@ Será necessário baixar a imagem <code>iso</code> do Ubuntu Server, sendo a ver
 Acesse https://ubuntu.com/download/server e selecione o link <code>Option 2: Manual server installation</code> e por fim click no link 
   <code>Download Ubuntu Server 22.04 LTS</code> para baixar o arquivo <code> ubuntu-22.04-live-server-amd64.iso</code>
   
-  ubuntu-22.04-live-server-amd64.iso
 
 [Como Ativar o Recurso de Virtualização no BIOS do PC Processadores Intel e AMD] https://www.youtube.com/watch?v=yDGdAXGItH0
 [Instalação do VirtualBox no Windows : Curso Linux Básico : Módulo 02 : Aula#03] https://www.youtube.com/watch?v=r66V3hrHyO8&t=18s
