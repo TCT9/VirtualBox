@@ -52,7 +52,8 @@ Vamos verificar no WIndows 10 se a virtualização está ativada. Para isso faç
   <code>Ctrl+Alt+Del</code> --> Gerenciador de Tarefas --> guia Desempenho --> selecione CPU
   
   Verifique se a virtualização está habilitada:
-  <p> ![image](https://user-images.githubusercontent.com/39566289/166926260-0f19631f-8cb5-4be2-9b30-73e55501bf5b.png) </p>
+  
+  ![image](https://user-images.githubusercontent.com/39566289/166926260-0f19631f-8cb5-4be2-9b30-73e55501bf5b.png) 
 
   
 
