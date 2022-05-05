@@ -28,11 +28,12 @@ Juntamente com a referência de material escrito e em vídeos.
 
 <a id="cap1"></a>
 ## 1. Instalar WSL 2
-O link abaixo descre como instalar o WSL 2, que será fundamental para simulação de sistemas Linux remotamente.
+O [vídeo](#link_video1) abaixo descre como instalar o WSL 2, que será fundamental para simulação de sistemas Linux remotamente.
 
 Outra obricação é a instalção do Windows Terminal e VS Code.
 
 Fonte(s):
+<a id = "link_video1">
 [WSL 2 - A solução para rodar Linux dentro do Windows 10 - Root #08] https://www.youtube.com/watch?v=hd6lxt5iVsg&t=580s
 Observação: veja na descrição do vídeo acima os links para instalação do Windows Terminal, VS Code, Ubuntu para Windows etc...
 
