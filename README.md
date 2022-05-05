@@ -32,11 +32,13 @@ a. Clique em legenda:
 
 ![image](https://user-images.githubusercontent.com/39566289/166954732-76284264-f72c-439c-aaf3-8c4a25c99008.png)
 
-b. Clique em detalhes: 
+b. Clique em Detalhes => Legendas/CC: 
 
 ![image](https://user-images.githubusercontent.com/39566289/167017221-f20a34fd-3991-47f1-8695-4d4bac2b0f88.png)
 
+c. Clique em Traduzir automáticamente => e por fim selecione Português:
 
+![image](https://user-images.githubusercontent.com/39566289/167017693-3f9d9356-c253-437f-9eb7-932fcb93947e.png)
 
 
 <a id="cap1"></a>
