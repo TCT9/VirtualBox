@@ -107,9 +107,8 @@ Vamos verificar no Windows 10 se a virtualização está ativada. Para isso faç
   
   O passo-a-passo para configurar IP estático é:
   
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;~$ => Isso é o terminal do guest ou seja, da nossa máquina virtual</p>
-  
-  my_user@DESKTOP-PUCC98R => Isso é o terminal do nosso host, ou seja do nosso computador. Estamou supondo que você está com Windows 10, WSL 2, Ubuntu e o Terminal Windows instalados.
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~$ => Isso é o terminal do guest ou seja, da nossa máquina virtual</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my_user@DESKTOP-PUCC98R => Isso é o terminal do nosso host, ou seja do nosso computador. Estamou supondo que você está com Windows 10, WSL 2, Ubuntu e o Terminal Windows instalados.</p>
   
   
   
