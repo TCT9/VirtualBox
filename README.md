@@ -122,6 +122,9 @@ Vamos verificar no Windows 10 se a virtualização está ativada. Para isso faç
   2. Instalar o pacote net-tools, pois vamos usar 'ifconfig'
 	~$ sudo apt install net-tools
 		Aguardar instalação
+  
+	~$ ifconfig
+	        Note que se você seleciou "Placa em modo <code>bridge</code>" verá um ip que pertence a sua rede local. 
 
   3. Definir o IP estático
 	Vamos acessar o arquivo de configurações
