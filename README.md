@@ -102,7 +102,18 @@ Vamos verificar no Windows 10 se a virtualização está ativada. Para isso faç
   [COMO CONFIGURAR AS PLACAS DE REDE DO VIRTUALBOX | part 01 -Atualizado!!](https://www.youtube.com/watch?v=_uTa2EAEK8k)
   
   [Mix - Confihurações de rede no VirtualBox](https://www.youtube.com/watch?v=ipdURBligTE&list=PLlJpkMCbRGXq2FU0riG_VDa9TGNiuKBQ6)
+  
   E depois selecione o Adaptador 2: escolha Rede NAT. 
+  
+  O passo-a-passo para configurar IP estático é:
+  
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;~$ => Isso é o terminal do guest ou seja, da nossa máquina virtual</p>
+  
+  my_user@DESKTOP-PUCC98R => Isso é o terminal do nosso host, ou seja do nosso computador. Estamou supondo que você está com Windows 10, WSL 2, Ubuntu e o Terminal Windows instalados.
+  
+  
+  
+  
   
   Dessa forma vamos usar um IP estático no Adpatador 1, com possibilidade de acessar via SSH, e depois criar outras máquinas virtuais para simular uma rede interna com clientes e um servidor back-end e outro servidor de banco de dados.
 
