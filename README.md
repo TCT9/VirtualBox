@@ -91,7 +91,7 @@ Vamos verificar no Windows 10 se a virtualização está ativada. Para isso faç
   
   b. Completo + IP estático => [Install Ubuntu Server 21.04 on VirtualBox 6.1 - Static IP Addresses and SSH Server](https://www.youtube.com/watch?v=zx3bICfe5PY)
   
-  Para efeito de simulação de servidores VPS minha sujestão é usar dois adapatores de rede na máquina virtual. Para saber mais sobre isso veja este vídeo:
+  Para efeito de simulação de servidores VPS minha sujestão é usar dois adapatores de rede na máquina virtual. Para saber mais sobre tipos de rede veja este vídeo:
   [ VirtualBox - Configuração da REDE na Máquina Virtual (VM) - Aula 9 - www.professorramos.com](https://www.youtube.com/watch?v=JI1iOo2igEY&list=PL0Vu-kzOParACWUIVIwMnxFmhsyWTQ5ON&index=2&t=445s)
   
   No VirtualBox => Rede => Adpatador 1: escolha Placa em modo <code>bridge</code>. 
