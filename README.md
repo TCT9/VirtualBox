@@ -143,7 +143,7 @@ Vamos verificar no Windows 10 se a virtualização está ativada. Para isso faç
 	
 ```
 
-[Para configurar um IP estático no Linux](https://pt.linux-console.net/?p=124#:~:text=Para%20configurar%20um%20IP%20est%C3%A1tico,ao%20espa%C3%A7amento%20no%20arquivo%20YAML.&text=Em%20seguida%2C%20salve%20o%20arquivo,abaixo%20para%20salvar%20as%20altera%C3%A7%C3%B5es.&text=Em%20seguida%2C%20voc%C3%AA%20pode%20confirmar,rede%20usando%20o%20comando%20ifconfig.)
+Fonte: [Para configurar um IP estático no Linux](https://pt.linux-console.net/?p=124#:~:text=Para%20configurar%20um%20IP%20est%C3%A1tico,ao%20espa%C3%A7amento%20no%20arquivo%20YAML.&text=Em%20seguida%2C%20salve%20o%20arquivo,abaixo%20para%20salvar%20as%20altera%C3%A7%C3%B5es.&text=Em%20seguida%2C%20voc%C3%AA%20pode%20confirmar,rede%20usando%20o%20comando%20ifconfig.)
 
   Dessa forma vamos usar um IP estático no Adpatador 1, com possibilidade de acessar via SSH, e depois criar outras máquinas virtuais para simular uma rede interna com clientes e um servidor back-end e outro servidor de banco de dados.
 
