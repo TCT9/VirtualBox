@@ -109,7 +109,9 @@ Vamos verificar no Windows 10 se a virtualização está ativada. Para isso faç
   
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~$ => Isso é o terminal do guest ou seja, da nossa máquina virtual</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my_user@DESKTOP-PUCC98R => Isso é o terminal do nosso host, ou seja do nosso computador. Estou supondo que você está com Windows 10, WSL 2, Ubuntu e o Terminal Windows instalados.</p>
-  
+
+```
+	
     1. atualizar pacotes
 	~$ sudo apt update
 		Aguardar atualização
@@ -138,6 +140,8 @@ Vamos verificar no Windows 10 se a virtualização está ativada. Para isso faç
 
 	Para ver as alterações:
 		~$ ifconfig
+	
+```
 
 	[Fonte-Para configurar um IP estático: https://pt.linux-console.net/?p=124#:~:text=Para%20configurar%20um%20IP%20est%C3%A1tico,ao%20espa%C3%A7amento%20no%20arquivo%20YAML.&text=Em%20seguida%2C%20salve%20o%20arquivo,abaixo%20para%20salvar%20as%20altera%C3%A7%C3%B5es.&text=Em%20seguida%2C%20voc%C3%AA%20pode%20confirmar,rede%20usando%20o%20comando%20ifconfig.]
 
